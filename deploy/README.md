@@ -21,7 +21,7 @@ Build it:
 
     . Run this:
 
-        sudo apt-get install libssl-dev build-essential g++-4.4 libboost-all-dev libsparsehash-dev git-core perl
+        sudo apt-get install libssl-dev build-essential g++-4.4 libboost-all-dev libsparsehash-dev git-core perl libsqlite3-dev
         git clone git://github.com/znort987/blockparser.git
         cd blockparser
         make
