@@ -33,6 +33,7 @@ server=1
 daemon=1
 rpcuser=INVENT_A_UNIQUE_USERNAME
 rpcpassword=INVENT_A_UNIQUE_PASSWORD
+txindex=1
 
 # start bitcoind
 bitcoind
